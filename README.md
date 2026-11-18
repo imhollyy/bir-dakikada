@@ -42,7 +42,9 @@ Anahtarlar sadece senin bilgisayarındaki `MoneyPrinterTurbo/config.toml` içind
 | `gorseller/` | Önerilir | `kapak.png` başlık kartına, `1.png`, `2.png`... sırayla videoya girer |
 | `ayar.json` | Hayır | Sadece bu videoya özel ayar (örn. `{"voice_name": "tr-TR-EmelNeural-Female"}`) |
 
-Örnek olarak `konular/arilar-kralice/` hazır. Metni yazılı, görsel listesi `gorseller/BENI-OKU.md` içinde.
+Örnek olarak `konular/arilar-kralice/` ve `konular/ahtapot-uc-kalp/` hazır. Metinleri yazılı, görsel listeleri `gorseller/BENI-OKU.md` içinde.
+
+**Metin yapısı (60 sn):** kanca (0-3 sn) → "Bir Dakikada'ya hoş geldin." (3-5 sn) → konu (5-52 sn) → kapanış + "Daha fazlası için Bir Dakikada'yı takip etmeyi unutma." (52-60 sn). Kendi metnini yazarken de bu kalıbı kullan; yaklaşık 115-130 kelime.
 
 ### 2. (İsteğe bağlı) Önce metni üret ve kontrol et
 
