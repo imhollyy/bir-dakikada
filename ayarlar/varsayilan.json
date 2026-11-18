@@ -1,0 +1,27 @@
+{
+  "video_aspect": "9:16",
+  "video_language": "tr-TR",
+  "video_source": "local",
+  "video_fit_mode": "contain",
+  "image_motion": "zoom",
+  "video_concat_mode": "sequential",
+  "video_transition_mode": "FadeIn",
+  "video_clip_duration": 6,
+  "paragraph_number": 1,
+
+  "voice_name": "tr-TR-AhmetNeural-Male",
+  "voice_rate": 1.05,
+  "voice_volume": 1.0,
+
+  "bgm_type": "random",
+  "bgm_volume": 0.12,
+
+  "subtitle_enabled": true,
+  "subtitle_position": "bottom",
+  "subtitle_display_mode": "sentence",
+  "font_name": "BeVietnamPro-Bold.ttf",
+  "font_size": 58,
+  "text_fore_color": "#FFFFFF",
+  "stroke_color": "#141a4d",
+  "stroke_width": 3
+}

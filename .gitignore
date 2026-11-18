@@ -1,0 +1,11 @@
+# MoneyPrinterTurbo kurulumda indirilir, repoya girmez
+MoneyPrinterTurbo/
+
+# Üretilen dosyalar
+_uretilen/
+*.mp4
+konular/*/ses.*
+
+__pycache__/
+*.pyc
+.DS_Store
